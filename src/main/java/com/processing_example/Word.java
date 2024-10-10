@@ -17,5 +17,5 @@ public abstract class Word {
     }
 
     //2. Create an abstract method getOrder
-    abstract int getOrder(); 
+
 }
