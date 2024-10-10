@@ -5,7 +5,7 @@ public abstract class Word {
 
     //1. Create the constructor
 
-    //is this word before the input work?
+    //is this word before the input word?
     boolean before(Word word)
     {
         return getOrder() < word.getOrder(); 
